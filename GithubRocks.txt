@@ -2,4 +2,11 @@ Part of Week 2 Assignment is to modify this file by appending your name, saving 
 
 Benjamin Dean
 Derrick Bozkurt
+Josh Davis
+Dallas Farruggia
+Mike Elmore
+Sophie Amberkar
+Dave Tanji
+Derek Hanson
+Dave Hamel
 ---Add your name above this line---
