@@ -1,4 +1,5 @@
 Part of Week 2 Assignment is to modify this file by appending your name, saving your changes, adding your changes to Git, pushing these changes to your fork of this repository on Githu, and then finally submitting a pull request to merge your changes into my repository.
 
 Benjamin Dean
+Derrick Bozkurt
 ---Add your name above this line---
