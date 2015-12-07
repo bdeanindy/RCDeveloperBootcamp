@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<link type="text/css" rel="stylesheet" href="style.css"/>
+<html>
+<head>
+    <title>Dave Hamel's Webpage</title>
+    
+    </head>
+<body>
+   
+    <h1> Dave Hamel</h1>
+        <div>
+    <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAARTAAAAJDExNDkwNWQ5LTg4ZGYtNDAyMi04ZGZhLTY2YWE4MWU3OWRkYQ.jpg"/>
+
+            <p><b> <a href="http://www.denverbroncos.com"> Dave Hamel</a></b></a> is solutions engineer with a heart of gold and a thirst for knowledge.  </p>
+
+    <p>Pastimes:</p>
+    <ul>
+    <li>Watching Football - GO Broncos!</li>
+        <li>Frequenting Pubs</li>
+        <li>Engineering Solutions</li>
+        <li>Accidental Ornithologist</li>
+        <li>Really Bad Pole Vaulter</li>
+    </ul>
+            </div>
+    </body>
+</html>
